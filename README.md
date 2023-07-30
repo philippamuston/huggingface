@@ -12,6 +12,5 @@ python sentiment-analysis.py --txt 'i love it!'
 ```
 
 
-## Initiate
-Useful links:
+## Useful links:
 https://huggingface.co/docs/transformers/installation
