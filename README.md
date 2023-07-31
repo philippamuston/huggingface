@@ -1,7 +1,7 @@
 ## Initiate and test
 
 ```bash
-python3 -m venv .env  
+python -m venv .env  
 source .env/bin/activate  
 python hello.py
 #Hello, Phil
