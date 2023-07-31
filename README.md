@@ -2,7 +2,9 @@
 
 ```bash
 python -m venv .env  
-source .env/bin/activate  
+source .env/bin/activate
+pip install torch torchvision
+# ^ installs pytorch which is too bit for git to handle!
 python hello.py
 #Hello, Phil
 python torch_test.py
